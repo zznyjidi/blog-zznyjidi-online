@@ -1,0 +1,12 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ZZNYJIDI's Blog</title>
+    <subtitle>Hello, World!</subtitle>
+    <link href="https://blog.zznyjidi.online//atom.xml" rel="self"/>
+    <link href="https://blog.zznyjidi.online/"/>
+    <updated>2025-05-05T13:20:58.542Z</updated>
+    <id>https://blog.zznyjidi.online/</id>
+    <author>
+        <name>ZZNYJIDI's Blog</name>
+    </author>
+    <generator uri="https://bbg.nekomoe.xyz">Baiyuanneko's Blog Generator</generator>
+    </feed>
